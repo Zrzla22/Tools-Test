@@ -1,4 +1,4 @@
-cowsay eye "Hack" |lolcat
+cowsay eyes "Hack" |lolcat
 figlet "Zrzla22" |lolcat
 
 
