@@ -1,15 +1,10 @@
+cowsay eye "Hack" |lolcat
 figlet "Zrzla22" |lolcat
-apt install curl
-
-curl Parrot.live
 
 
-Meng-install Tools dari 
 figlet "Mr.B4J1N64N" |lolcat
 
 
 git clone https://github.com/DarknessCyberTeam/B4J1N64Nv3
 ls
-========================
-Buka dengan perintah "cd"
-========================
+
